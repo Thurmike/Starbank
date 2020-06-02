@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="jjj">
+        <Key name="specialistkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="singletargetkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="assassinkills">
+            <Value int="1857"/>
+        </Key>
+        <Key name="supportkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="splashkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="tankkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="builderkills">
+            <Value int="100"/>
+        </Key>
+    </Section>
+    <Section name="number">
+        <Key name="wave">
+            <Value int="73"/>
+        </Key>
+    </Section>
+    <Section name="j">
+        <Key name="KillReducerForBounty">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="jj">
+        <Key name="specialistkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="singletargetkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="assassinkills">
+            <Value int="1857"/>
+        </Key>
+        <Key name="supportkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="splashkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="tankkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="builderkills">
+            <Value int="100"/>
+        </Key>
+    </Section>
+    <Section name="TP">
+        <Key name="ShieldPoints">
+            <Value int="0"/>
+        <Key name="LifeRegenPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="LifePoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="MineralStartPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="CooldownPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="LifeArmorBonusPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="EnergyPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="DamageReductionPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="EnergyRegenPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="DamagePoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="ShieldArmorBonusPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="MoveSpeedPoints">
+            <Value int="100000"/>
+        </Key>
+        <Key name="RespawnSpeedPoints">
+            <Value int="1000000"/>
+        </Key>
+        <Key name="LifeArmorMultiplyPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="YOUR KILLS WILL BE RESET IF YOU ATTEMPT TO HACK ANYTHING">
+            <Value int="0"/>
+        </Key>
+        <Key name="VespeneStartPoints">
+            <Value int="0"/>
+        </Key>
+        <Key name="ShieldRegenerationPoints">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="PlayerIDNumber">
+        <Key name="PlayerID">
+            <Value int="70"/>
+        </Key>
+        <Key name="InfoNumber">
+            <Value int="139566"/>
+        </Key>
+    </Section>
+    <Signature value="5C70ECEBD098E01D9A3CDC42EF784EFA34FBCE45"/>
+</Bank>
